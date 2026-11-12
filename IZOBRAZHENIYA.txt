@@ -1,0 +1,30 @@
+ИЗОБРАЖЕНИЯ ДЛЯ «ТК OTON»
+
+Все растровые ассеты созданы встроенным ImageGen. Режим CLI/API не использовался. Это фотоиллюстрации услуг и категорий транспорта, а не фотографии реальных заказов, работников или автопарка компании. Формат файлов для сайта — WebP, изображения находятся в папке assets внутри архива. Прозрачность трёх каталожных изображений сохранена.
+
+НОВЫЕ ФОТОИЛЛЮСТРАЦИИ
+
+Общий префикс каждого запроса:
+Use case: photorealistic-natural. Asset for an independent Russian freight transportation website named ТК OTON.
+
+assets/road.webp — первый экран.
+Website hero, landscape photograph, roughly 16:9. A real-looking dark forest green commercial rigid box truck with white box cargo body driving towards the camera on a quiet two-lane asphalt road in central Russia. Truck in right half of frame, entire front and most body visible, wide roadside composition with small birch trees, low fields, pale overcast sky and distant tree line. Slightly worn practical vehicle, clean yet believable, documentary transport magazine photography, no other vehicles. No branding. Soft morning daylight, restrained natural green and warm grey tones, realistic road markings. Left half predominantly calm landscape for page copy overlay, no dramatic sunset. Camera close to road at eye level. Avoid render, illustration, oversaturated HDR, cinematic fog, invented logos, legible text, watermarks.
+
+assets/moving.webp — переезды.
+Editorial website photo, landscape 4:3. A natural unposed view of two movers loading a light commercial white box truck parked beside an ordinary low-rise brick residential building. One mover seen mostly from back in a plain dark forest green work jacket and dark trousers carrying one manageable taped cardboard box with both hands towards the open loading platform, the other mostly inside the cargo box arranging boxes. Clearly believable single coherent action, safe practical handling, no hand closeup. Cardboard boxes, one wrapped chair and furniture blanket inside truck. Mild autumn daylight, soft shadows, true-to-life colours, slightly imperfect documentary photography. People anonymous, faces not emphasized. No lettering, logos, watermark, showroom styling, studio perfection, render or dramatic filters.
+
+assets/warehouse.webp — доставка для бизнеса.
+Editorial logistics website photo, landscape 4:3. View from a warehouse aisle towards a loading dock with a small electric pallet truck and one neat wooden pallet of cardboard cartons secured in clear stretch film, practical warehouse staff member in muted green workwear at middle distance viewed from side, freight truck open at loading dock beyond. Real warehouse with neutral grey concrete floor, correct realistic perspective, natural side daylight, everyday working scene, tidy but not sterile. Accurate pallet physics, boxes resting on pallet, no floating items. Subdued forest green accents, warm cardboard brown, believable photographic textures. No logos, readable labels, obvious brand text, watermarks, giant modern sci-fi warehouse or cinematic staging.
+
+assets/packing.webp — подготовка к перевозке.
+Editorial logistics website photo, landscape 4:3. Close documentary still life inside an open delivery truck: brown taped moving boxes of several sizes, a house plant protected in an open cardboard box, a framed mirror carefully wrapped in a textured grey moving blanket, packing paper and a single neatly folded blanket. Everything safely placed on a clean slightly worn wooden truck floor, actual white metal interior and soft daylight from the open rear doors. Crop in close on materials, no people, no readable text. Natural warm cardboard and cool muted green details, honest fine grain, realistic small imperfections. Tasteful candid photography, no CGI render, no oversized carton, no decorative stickers, no logos, no watermark.
+
+КАТЕГОРИИ ТРАНСПОРТА, СОХРАНЁННЫЕ ИЗ ПРЕДЫДУЩЕЙ ВЕРСИИ
+
+assets/truck-small.webp — категория до 1,5 т.
+assets/truck-medium.webp — категория до 5 т.
+assets/truck-large.webp — категория до 20 т.
+
+Общий запрос: фотореалистичный белый грузовик соответствующего размера, ракурс спереди в три четверти слева, кабина смотрит влево, тёмно-зелёные и изумрудные полосы, весь автомобиль целиком, прозрачный фон, мягкая контактная тень, без логотипов и надписей. Размеры категорий: compact 1.5 tonne box delivery truck; medium 5 tonne rigid box truck; heavy tractor with long semitrailer, 20 tonne category.
+
+Логотип и favicon выполнены в SVG кодом и не используют растровые изображения.
